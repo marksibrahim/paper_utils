@@ -48,6 +48,7 @@ def cite_mla(paper: dict) -> str:
 def cite(abstract_url: str) -> str:
     paper = get_paper(abstract_url)
     citation = cite_mla(paper)
+    print(citation)
     return citation
 
 

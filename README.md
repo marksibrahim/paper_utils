@@ -6,8 +6,6 @@ Generate a plaintext citation:
 Download a pdf:
 `python article.py download [url]`
 
-
-
 For command help, 
 `python article.py --help` 
 
