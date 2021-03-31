@@ -1,10 +1,11 @@
-# paper_utils
+# Paper Utils
 
-To generate a plaintext citation:
+Generate a plaintext citation:
 `python article.py cite [url]`
 
-To download a pdf:
+Download a pdf:
 `python article.py download [url]`
+
 
 
 For command help, 
